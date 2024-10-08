@@ -28,4 +28,5 @@
 ### ⚡ 有趣的事实:
   - 实际上，我也不记得我的这个昵称是怎么来的，不过最早我注意到我有这个昵称是在哔哩哔哩上，感觉不错于是便一直沿用至今
 
-
+### Buy me a cup of coffee ?
+If you like pragram i dev and are willing to tip me, you can tip me on kofi: buy me a coffee
